@@ -1,6 +1,6 @@
 # E-Pos-Portal
 
-### DemoVideo: https://drive.google.com/file/d/1EHWvQSf0jRlvo-ezHNlrRR_uqhG0YgJp/view?usp=sharing
+**DemoVideo:** https://drive.google.com/file/d/1EHWvQSf0jRlvo-ezHNlrRR_uqhG0YgJp/view?usp=sharing
 
 This is an E-pos portal where you can find your bank account transcription statements. 
 the user can upload some documents consisting of their bank transaction statements. 
