@@ -33,7 +33,7 @@ This is completey a secured operation where the users are provied with unique re
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=MVC+Design+Pattern&color=E34F26&logoColor=FFFFFF&label=)
 ![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=SMTP+Protocol&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)
 
-
+## Database 🥅
 
 Backend: MIME Message interfaces and SMTP protocol for sending mail notifications. 
 
