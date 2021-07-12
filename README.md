@@ -14,6 +14,8 @@ This is completey a secured operation where the users are provied with unique re
 
 ## Front End 📫
 
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+
 Frontend: normal UI technologies (html,  css,  js,  jquery, jsp)
 
 Backend: Core Java, MVC design pattern, JSTL, Servlets, MIME Message interfaces and SMTP protocol for sending mail notifications. 
