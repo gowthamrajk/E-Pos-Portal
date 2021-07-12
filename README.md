@@ -1,5 +1,8 @@
 # E-Pos-Portal ❤️ 
 
+![](https://img.shields.io/github/languages/count/gowthamrajk/E-Pos-Portal)   ![](https://img.shields.io/github/languages/top/gowthamrajk/E-Pos-Portal)
+
+
 **DemoVideo:** https://drive.google.com/file/d/1EHWvQSf0jRlvo-ezHNlrRR_uqhG0YgJp/view?usp=sharing
 
 This is an E-pos portal where you can find your bank account transcription statements. 
