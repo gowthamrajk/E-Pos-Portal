@@ -10,7 +10,7 @@ They can also share their transaction history to the required MAIL ID.
 This includes two modes as (direct transaction, uploading transaction statements and get the transcripted scripts). 
 This is completey a secured operation where the users are provied with unique registration and login credentials through which only they can access the portal after registering to it.
 
-# Technologies used :
+# Technologies used 📌
 
 Frontend: normal UI technologies (html,  css,  js,  jquery, jsp)
 
