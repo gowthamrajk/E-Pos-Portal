@@ -9,3 +9,11 @@ An additional feature is that they can also rate our services and provide feedba
 They can also share their transaction history to the required MAIL ID. 
 This includes two modes as (direct transaction, uploading transaction statements and get the transcripted scripts). 
 This is completey a secured operation where the users are provied with unique registration and login credentials through which only they can access the portal after registering to it.
+
+# Technologies used :
+
+Frontend: normal UI technologies (html,  css,  js,  jquery, jsp)
+
+Backend: Core Java, MVC design pattern, JSTL, Servlets, MIME Message interfaces and SMTP protocol for sending mail notifications. 
+
+Database: Mysql,  hibernate and JDBC for db interfacing.
