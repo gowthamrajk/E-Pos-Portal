@@ -23,9 +23,6 @@ This is completey a secured operation where the users are provied with unique re
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![](https://img.shields.io/badge/JSP-c43e1f?style=for-the-badge&logo=jsp&logoColor=white)
 
-
-Frontend: normal UI technologies (html,  css,  js,  jquery, jsp)
-
 Backend: Core Java, MVC design pattern, JSTL, Servlets, MIME Message interfaces and SMTP protocol for sending mail notifications. 
 
 Database: Mysql,  hibernate and JDBC for db interfacing.
