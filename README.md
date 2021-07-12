@@ -29,6 +29,7 @@ This is completey a secured operation where the users are provied with unique re
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=6DB33F&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JSTL&color=222222&logo=JSTL&logoColor=F7DF1E&label=)
 ![Hibernate](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
+![JDBC](https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=222222&logoColor=3DDC84&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=MVC+Design+Pattern&color=E34F26&logoColor=FFFFFF&label=)
 ![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=SMTP+Protocol&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)
 
