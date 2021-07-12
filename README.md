@@ -48,6 +48,4 @@ This is completey a secured operation where the users are provied with unique re
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
 
-Backend: MIME Message interfaces and SMTP protocol for sending mail notifications. 
-
-Database: Mysql,  hibernate and JDBC for db interfacing.
+**For more queries, reach me through gowthamraj692@gmail.com or whatsapp @ 9698382306**
