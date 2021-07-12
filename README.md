@@ -12,6 +12,8 @@ This is completey a secured operation where the users are provied with unique re
 
 # Technologies used 📌
 
+## Front End 📫
+
 Frontend: normal UI technologies (html,  css,  js,  jquery, jsp)
 
 Backend: Core Java, MVC design pattern, JSTL, Servlets, MIME Message interfaces and SMTP protocol for sending mail notifications. 
