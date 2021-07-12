@@ -1,0 +1,116 @@
+body 
+{
+	background: #f5f57f;
+	height: 100vh;
+}
+.frame 
+{
+	position: absolute;
+	top: 48%;
+	left: 38%;
+	width: 350px;
+	height: 370px;
+	margin-top: -200px;
+	margin-left: -200px;
+	border-radius: 20px;
+	box-shadow: 0 29px 38px rgba(0, 0, 0, 0.30), 0 25px 22px rgba(0, 0, 0, 0.22),0 25px 22px rgba(0, 0, 0, 0.22),0 25px 22px rgba(0, 0, 0, 0.22);
+	overflow: hidden;
+	background: white;
+	color: #333;
+	font-family: "Open Sans", Helvetica, sans-serif;
+}
+.frame2
+{
+	position: absolute;
+	top: 53%;
+	left: 57%;
+	width: 352px;
+	height: 70px;
+	margin-top: -200px;
+	margin-left: -200px;
+	border-radius: 20px;
+	box-shadow: 0 19px 18px rgba(0, 0, 0, 0.30), 0 25px 22px rgba(0, 0, 0, 0.22);
+	overflow: hidden;
+	background: #eddfb7;
+	color: #333;
+	font-family: "Open Sans", Helvetica, sans-serif;
+}
+.frame3
+{
+	position: absolute;
+	top: 48%;
+	left: 70%;
+	width: 350px;
+	height: 370px;
+	margin-top: -200px;
+	margin-left: -200px;
+	border-radius: 20px;
+	box-shadow: 0 29px 38px rgba(0, 0, 0, 0.30), 0 25px 22px rgba(0, 0, 0, 0.22),0 25px 22px rgba(0, 0, 0, 0.22),0 25px 22px rgba(0, 0, 0, 0.22);
+	overflow: hidden;
+	background: white;
+	color: #333;
+	font-family: "Open Sans", Helvetica, sans-serif;
+}
+.tab1
+{ 
+     display: inline-block; 
+     margin-left: 55px; 
+} 
+ .tab2
+{ 
+     display: inline-block; 
+     margin-left: 50px; 
+} 
+.picker1
+{
+	margin-top: 30%;
+	margin-left: 10%;
+}
+.picker2
+{
+	margin-left: 10%;
+	margin-top: 30px;
+}
+.txt
+{
+	font-size: 30px;
+	margin-top: 23px;
+	font-style: oblique;
+	letter-spacing: 2px;
+    text-decoration: none;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #544519;
+	text-transform: upper-latin;
+	color: #12245e;
+}
+.picker1 p
+{
+	color: black;
+	font-family: semi-condensed;
+	font-size: 18px;
+	font-weight: bold;
+}
+.picker2 p
+{
+	color: black;
+	font-family: semi-condensed;
+	font-size: 18px;
+	font-weight: bold;
+}
+.btn {
+    width: 100px;
+    height: 30px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #1d6f42;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+}
+
+.tab{ 
+     display: inline-block; 
+     margin-left: 50px; 
+ } 

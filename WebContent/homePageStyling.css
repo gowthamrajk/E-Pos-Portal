@@ -1,0 +1,204 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,500,700");
+
+	html, body, div,  h1, h2, p, i, center 
+	{
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline;
+	}
+	body {
+		background-color: #fff;
+		color: #777;
+	}
+	body, input, select, textarea {
+		font-family: "Raleway", Helvetica, sans-serif;
+		font-size: 13pt;
+		font-weight: 400;
+		line-height: 2em;
+	}
+	h1, h2{
+		font-weight: 700;
+		line-height: 1em;
+		margin: 0 0 1em 0;
+		text-transform: uppercase;
+	}
+		h1 a, h2 a{
+			text-decoration: none;
+		}
+	h2 {
+		font-size: 1.5em;
+		line-height: 1.5em;
+	}
+	
+	.button
+	{
+		border-radius: 2.5em;
+		border: 0;
+		cursor: pointer;
+		display: inline-block;
+		font-weight: 700;
+		height: 2.85em;
+		line-height: 2.95em;
+		min-width: 10em;
+		padding: 0 1.5em;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+		white-space: nowrap;
+	}
+		.button.special {
+			background-color: #51BAA4;
+			box-shadow: none;
+			color: #fff !important;
+		}
+	.feature {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		margin-bottom: 6em;
+	}
+		.feature.left {
+			-moz-flex-direction: row;
+			-webkit-flex-direction: row;
+			-ms-flex-direction: row;
+			flex-direction: row;
+		}
+		.feature.right 
+		{
+			-moz-flex-direction: row-reverse;
+			-webkit-flex-direction: row-reverse;
+			-ms-flex-direction: row-reverse;
+			flex-direction: row-reverse;
+		}
+			.feature .image 
+			{
+				width: 100%;
+			}
+				.feature .image img 
+				{
+				    margin-left: 10%;
+					width: 70%;
+				}
+			.feature .content {
+				padding: 4em 4em 4em 4em;
+				width: 100%;
+			}
+
+		}
+		
+	.image-grid {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-wrap: wrap;
+		-webkit-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+		margin-bottom: 4em;
+	}
+
+	.wrapper {
+		padding: 8em 0 6em 0;
+		position: relative;
+	}
+		.wrapper > .inner {
+			margin: 0 auto;
+			width: 70em;
+		}
+
+		.wrapper.style1 {
+			background-color: #EEE;
+			color: #777;
+		}
+		.wrapper.style1 .feature
+		{
+			background-color: #fff;
+		}
+		
+	#header {
+		background: #07090c;
+		color: rgba(255, 255, 255, 0.75);
+		cursor: default;
+		height: 3.25em;
+		left: 0;
+		line-height: 3.25em;
+		position: fixed;
+		text-align: right;
+		top: 0;
+		width: 100%;
+		z-index: 10001;
+	}
+		#header > h1 {
+			color: #fff;
+			display: inline-block;
+			height: inherit;
+			left: 1.25em;
+			line-height: inherit;
+			margin: 0;
+			padding: 0;
+			position: absolute;
+			top: 0;
+		}
+		#header a {
+			-moz-transition: color 0.2s ease-in-out;
+			-webkit-transition: color 0.2s ease-in-out;
+			-ms-transition: color 0.2s ease-in-out;
+			transition: color 0.2s ease-in-out;
+			color: #fff;
+			display: inline-block;
+			margin-right: 1.25em;
+			text-decoration: none;
+		}				
+
+		#header.alt {
+			background-color: transparent;
+			font-size: 1.25em;
+			padding: 1em 2em;
+			position: absolute;
+		}
+	#banner 
+	{
+		padding: 8em 0 6em 0;
+		background-color: #1E2832;
+		color: rgba(255, 255, 255, 0.75);
+		background-attachment: fixed;
+		background-image: url("images/banner.jpg");
+		background-size: cover;
+		text-align: center;
+	}
+		#banner h2
+		{
+			color: #fff;
+		}
+		#banner h2 {
+			font-size: 2.5em;
+			margin: 0 0 0.5em 0;
+			padding: 0;
+		}
+		#banner p {
+			color: #fff;
+			font-size: 1.5em;
+			margin-bottom: 1.75em;
+			text-transform: uppercase;
+		}
+		#banner .icon {
+			border-radius: 100%;
+			border: solid 2px #fff;
+			color: #fff;
+			display: inline-block;
+			font-size: 3em;
+			height: 2.25em;
+			line-height: 1.25em;
+			margin-bottom: 0.5em;
+			padding: 0.5em;
+			width: 2.25em;
+		}

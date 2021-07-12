@@ -1,0 +1,118 @@
+body
+{
+	background: #F3EFD6;
+}
+.frame 
+{
+	position: absolute;
+	top: 50%;
+	left: 30%;
+	width: 950px;
+	height: 400px;
+	margin-top: -200px;
+	margin-left: -200px;
+	border-radius: 20px;
+	box-shadow: 0 29px 38px rgba(0, 0, 0, 0.30), 0 25px 22px rgba(0, 0, 0, 0.22);
+	overflow: hidden;
+	background: linear-gradient(to top right, #FCED8D 20%, hotpink 90%);
+	color: #333;
+	font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+.dropzone img
+{
+	width: 60px;
+	height: 60px;
+}
+
+.center {
+	position: absolute;
+	top: 50%;
+	left: 30%;
+	transform: translate(-50%, -50%);
+	width: 300px;
+	height: 240px;
+	border-radius: 30px;
+	box-shadow: 0 29px 38px rgba(0, 0, 0, 0.30), 0 25px 22px rgba(0, 0, 0, 0.22);
+	background: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	flex-direction: column;
+}
+
+.center1 {
+	position: absolute;
+	top: 40%;
+	left: 70%;
+	transform: translate(-50%, -50%);
+	width: 300px;
+	height: 170px;
+	border-radius: 30px;
+	box-shadow: 0 29px 38px rgba(0, 0, 0, 0.30), 0 25px 22px rgba(0, 0, 0, 0.22);
+	background: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	flex-direction: column;
+}
+.center1 img
+{
+	width: 25%;
+	height: 60%;
+}
+
+.title {
+	width: 100%;
+	height: 50px;
+	border-bottom: 1px solid #999;
+	text-align: center;
+}
+
+h1 {
+	font-size: 16px;
+	font-weight: 300;
+	color: #666;
+}
+
+.dropzone {
+	width: 100px;
+	height: 80px;
+	margin-top: 10px;
+	border: 1px dashed #999;
+	border-radius: 3px;
+	text-align: center;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+.upload-icon {
+	margin: 25px 2px 2px 2px;
+}
+
+.upload-input {
+	position: relative;
+	top: -62px;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+}
+
+.btn {
+	display: block;
+	width: 140px;
+	height: 40px;
+	margin-top: 20px;
+	background: darkmagenta;
+	color: #fff;
+	border-radius: 3px;
+	border: 0;
+	box-shadow: 0 3px 0 0 hotpink;
+	transition: all 0.3s ease-in-out;
+	font-size: 14px;
+}
+
+.btn:hover {
+	background: rebeccapurple;
+	box-shadow: 0 3px 0 0 deeppink;
+}
