@@ -39,6 +39,9 @@ This is completey a secured operation where the users are provied with unique re
 
 ## Development 🔭
 
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Open+JDK+14&color=007396&label=)
+
+
 Backend: MIME Message interfaces and SMTP protocol for sending mail notifications. 
 
 Database: Mysql,  hibernate and JDBC for db interfacing.
